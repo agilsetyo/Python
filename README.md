@@ -1,2 +1,2 @@
-# R-Studio
-Kumpulan Pemodelan Statistik dengan Program R-Studio
+# Python
+Kumpulan Pemodelan Statistik dengan Python
